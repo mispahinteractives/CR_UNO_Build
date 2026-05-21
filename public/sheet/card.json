@@ -1,0 +1,300 @@
+{"frames": [
+
+{
+	"filename": "Back_Card_",
+	"frame": {"x":2,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Diamond&Heart_AK",
+	"frame": {"x":2,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Diamond&Heart_KQ",
+	"frame": {"x":2,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Diamond&Heart_QJ",
+	"frame": {"x":94,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Spade&-Club_AK",
+	"frame": {"x":94,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Spade&-Club_KQ",
+	"frame": {"x":94,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Card_Spade&-Club_QJ",
+	"frame": {"x":186,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Draw 2_Black",
+	"frame": {"x":1014,"y":2,"w":88,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":132},
+	"sourceSize": {"w":88,"h":132}
+},
+{
+	"filename": "Draw 2_Red",
+	"frame": {"x":1014,"y":137,"w":88,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":132},
+	"sourceSize": {"w":88,"h":132}
+},
+{
+	"filename": "Tint_Black_2",
+	"frame": {"x":186,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_3",
+	"frame": {"x":278,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_4",
+	"frame": {"x":278,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_5",
+	"frame": {"x":278,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_6",
+	"frame": {"x":370,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_7",
+	"frame": {"x":370,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_8",
+	"frame": {"x":370,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_9",
+	"frame": {"x":462,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_10",
+	"frame": {"x":186,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_A",
+	"frame": {"x":462,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_J",
+	"frame": {"x":462,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_K",
+	"frame": {"x":554,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Black_Q",
+	"frame": {"x":554,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_2",
+	"frame": {"x":646,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_3",
+	"frame": {"x":646,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_4",
+	"frame": {"x":646,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_5",
+	"frame": {"x":738,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_6",
+	"frame": {"x":738,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_7",
+	"frame": {"x":738,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_8",
+	"frame": {"x":830,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_9",
+	"frame": {"x":830,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_10",
+	"frame": {"x":554,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_A",
+	"frame": {"x":830,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_J",
+	"frame": {"x":922,"y":2,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_K",
+	"frame": {"x":922,"y":141,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Tint_Red_Q",
+	"frame": {"x":922,"y":280,"w":89,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":136},
+	"sourceSize": {"w":89,"h":136}
+},
+{
+	"filename": "Wild_Card",
+	"frame": {"x":1014,"y":272,"w":88,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":132},
+	"sourceSize": {"w":88,"h":132}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "card.png",
+	"format": "RGBA8888",
+	"size": {"w":1104,"h":418},
+	"scale": "0.3",
+	"smartupdate": "$TexturePacker:SmartUpdate:c99bfd72b3b9ddc214c06d12814220e0:e372765a4f9c6bf32893aeecf013ba69:174aba2fcc0fb5b96352486c74cc3599$"
+}
+}
