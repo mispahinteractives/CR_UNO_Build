@@ -190,9 +190,39 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>64,54,127,108</rect>
+                <rect>45,38,89,75</rect>
                 <key>scale9Paddings</key>
-                <rect>64,54,127,108</rect>
+                <rect>45,38,89,75</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/AMAZING!!.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>127,30,255,59</rect>
+                <key>scale9Paddings</key>
+                <rect>127,30,255,59</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/Angry Emotic.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>211,211,422,422</rect>
+                <key>scale9Paddings</key>
+                <rect>211,211,422,422</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -224,6 +254,21 @@
                 <rect>36,43,72,86</rect>
                 <key>scale9Paddings</key>
                 <rect>36,43,72,86</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/MARVELOUS!!_.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>151,30,303,59</rect>
+                <key>scale9Paddings</key>
+                <rect>151,30,303,59</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -266,9 +311,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>78,15,155,31</rect>
+                <rect>54,11,109,21</rect>
                 <key>scale9Paddings</key>
-                <rect>78,15,155,31</rect>
+                <rect>54,11,109,21</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -281,9 +326,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>30,15,60,31</rect>
+                <rect>21,11,42,21</rect>
                 <key>scale9Paddings</key>
-                <rect>30,15,60,31</rect>
+                <rect>21,11,42,21</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -344,6 +389,21 @@
                 <rect>60,60,120,120</rect>
                 <key>scale9Paddings</key>
                 <rect>60,60,120,120</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/shadow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>207,150,413,301</rect>
+                <key>scale9Paddings</key>
+                <rect>207,150,413,301</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
